@@ -1,0 +1,7 @@
+[clog]
+repository = "https://github.com/kentcdodds/clog"
+changelog = "CHANGELOG.md"
+from-latest-tag = true
+
+[sections]
+Chore = ["chore"]
