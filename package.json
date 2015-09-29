@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/kentcdodds/clog-cli#readme",
   "devDependencies": {
-    "cz-conventional-changelog": "1.1.0",
+    "cz-conventional-changelog": "1.1.2",
     "with-package": "0.2.0"
   }
 }
