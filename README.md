@@ -27,7 +27,7 @@ Congratulations, you've opened your life to a whole new world of awesome tooling
 
 ## Installation
 
-Install this tool via `npm`: `$ npm install -g clog`
+Install this tool via `npm`: `$ npm install -g clog-cli`
 
 # Usage
 
